@@ -1,7 +1,5 @@
 # README.md File For DSI Unix and Git Course
 
-![w:1000 center] (https://televandalist.com/post/109590819499)
-
 Date of Project Start: November 1, 2022
 
 Name of Project: Workshop Assignment for Lillian Sung - Unix and Git DSI Course
