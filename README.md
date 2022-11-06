@@ -18,3 +18,4 @@ Contributing: Just me I guess with a fork from my partner Filip.!
 
 [Lillian's Github] (https://github.com/sunglil)
 
+Hello Lillian, I am adding this line in your README as a pull request. I am also letting you know that the pull request you created on my README was for the README that we created in class and not the one I created for this assignment. If you wish to create a pull request on the new one you may do so. Please let me know if you have any questions!
