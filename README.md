@@ -18,3 +18,4 @@ Contributing: Just me I guess with a fork from my partner Filip.!
 
 [Lillian's Github] (https://github.com/sunglil)
 
+Hi Lillian, this is my second attempt at a pull request as I forgot to add a comment last time. Thank you for your patience!
